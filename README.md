@@ -7,7 +7,8 @@ Send Sms Massal To List no.txt
 ```
 apt update && apt upgrade
 apt install git python2
-apt install figlet nano
+apt install figlet nano ruby
+gem install lolcat
 pip2 install requests
 git clone https://github.com/Senitopeng/Smsmas.git
 cd Smsmas
