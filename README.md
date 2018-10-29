@@ -18,3 +18,11 @@ python2 Smsmas.py no.txt
 Bikin Dulu List Nomernya, Contoh Masuk Menub Edit Ketik:
 nano no.txt
 Lalu isi Nomer2 target Ke dalam File no.txt dan save
+
+# Tutorial Web
+```
+https;//www.senitopeng.xyz
+```
+
+<img src=".Image/Sms1.png">
+<img src=".Image/Sms2.png">
